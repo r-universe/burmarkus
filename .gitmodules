@@ -5,6 +5,3 @@
 [submodule "JoF"]
 	path = JoF
 	url = https://github.com/cran/JoF
-[submodule "cofad"]
-	path = cofad
-	url = https://github.com/cran/cofad
